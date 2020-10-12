@@ -39,4 +39,4 @@ The process from _**FactoryCreator**_ is in the following lines in _**Main**_:
 ~~~
 
 ## Screenshot
-![](//Users/janegarciu/Documents/TMPS/Lab1/screenshot.png)
+![](/Users/janegarciu/Documents/TMPS/Lab1/src/main/java/screenshot.png)
