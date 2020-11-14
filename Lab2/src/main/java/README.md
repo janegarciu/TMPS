@@ -39,7 +39,7 @@ The process from _**FactoryCreator**_ is in the following lines in _**Main**_:
 ~~~
 
 ## Screenshot
-![](/Users/janegarciu/Documents/TMPS/Lab1/src/main/java/screenshot.png)
+![](/Users/janegarciu/Documents/TMPS/Lab2/screenshots/screenshot.png)
 
 # Topic: *Structural Design Patterns*
 
@@ -64,7 +64,7 @@ For the _**Adapter**_ pattern I have 2 main classes:  _**HumanAdapter**_ and _**
 
 Below you can see how the builder is used by the output of a program:
 
-![](/Users/janegarciu/Documents/TMPS/Lab2/src/main/java/Adapter.png)
+![](/Users/janegarciu/Documents/TMPS/Lab2/screenshots/Adapter.png)
 
 __2. Decorator__ 
 
@@ -72,7 +72,7 @@ Here I have the _**IHuman**_ interface in which I specify that all human beings 
 
 As you can see on the screenshot, here I create an ordinary human being and add specified human type characteristics.
 
-![](/Users/janegarciu/Documents/TMPS/Lab2/src/main/java/Decorator.png)
+![](/Users/janegarciu/Documents/TMPS/Lab2/screenshots/Adapter.png)
 
 __3. Proxy__ 
 
@@ -80,7 +80,7 @@ For the proxy design pattern I have _**HumanPassportDetails**_ interface which i
 
 Screenshot of the output:
 
-![](/Users/janegarciu/Documents/TMPS/Lab2/src/main/java/Proxy.png)
+![](/Users/janegarciu/Documents/TMPS/Lab2/screenshots/Proxy.png)
 
 __4. Composite__
 
@@ -88,4 +88,4 @@ The last attribute in _**HumanInfo**_ class which is the list of group members i
 
 Screenshot of an output is presented below: 
 
-![](/Users/janegarciu/Documents/TMPS/Lab2/src/main/java/Composite.png)
+![](/Users/janegarciu/Documents/TMPS/Lab2/screenshots/Composite.png)
