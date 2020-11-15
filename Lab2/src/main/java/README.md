@@ -30,7 +30,7 @@ Here I have the _**IHuman**_ interface in which I specify that all human beings 
 
 As you can see on the screenshot, here I create an ordinary human being and add specified human type characteristics.
 
-![](/Users/janegarciu/Documents/TMPS/Lab2/screenshots/Adapter.png)
+![](/Lab2/screenshots/Adapter.png)
 
 __3. Proxy__ 
 
@@ -38,7 +38,7 @@ For the proxy design pattern I have _**HumanPassportDetails**_ interface which i
 
 Screenshot of the output:
 
-![](/Users/janegarciu/Documents/TMPS/Lab2/screenshots/Proxy.png)
+![](/Lab2/screenshots/Proxy.png)
 
 __4. Composite__
 
@@ -46,4 +46,4 @@ The last attribute in _**HumanInfo**_ class which is the list of group members i
 
 Screenshot of an output is presented below: 
 
-![](/Users/janegarciu/Documents/TMPS/Lab2/screenshots/Composite.png)
+![](/Lab2/screenshots/Composite.png)
