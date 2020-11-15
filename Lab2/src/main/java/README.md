@@ -22,7 +22,7 @@ For the _**Adapter**_ pattern I have 2 main classes:  _**HumanAdapter**_ and _**
 
 Below you can see how the builder is used by the output of a program:
 
-![](/Users/janegarciu/Documents/TMPS/Lab2/screenshots/Adapter.png)
+![](/Lab2/screenshots/Adapter.png)
 
 __2. Decorator__ 
 
